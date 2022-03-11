@@ -1,0 +1,42 @@
+pokéball ◓
+baie ꖴ
+rappel ꕺ
+perso ߐ ou ꔍ
+
+Starters
+BULBIZARRE ꘠
+SALAMECHE ꘢
+CARAPUCE ꕫ
+
+50 %
+CHENIPAN ꘫ
+RATTATA ꖐ
+ROUCOOL ꕒ
+PIAFABEC ꗩ
+
+20 %
+ABO ꘩
+MYSTHERBE ꕥ
+TENTACOOL ꘐ
+PIKACHU ꘪ⚡
+
+idk
+☠☞▓▒░▥▤▧▨▩
+
+
+A faire : 
+mode generation (pokemon ou pas pokemon dans hautes herbes)
+Pv max
+base des données de tous les pokemon ailleurs que dans fonction + tir de rareté
+
+affichage pokemon dans equipe + changer ordre équipe
+
+gestion attaque (1 seule attaque du type du pokémon ou 2 attaques : charge + attaque de type)
+
+
+combat : attaquer
+changer notre pokémon -> affichage équipe -> choix
+attraper (pokeball)
+fuir
+
+
